@@ -38,7 +38,7 @@ export const Navbar = ({
             href="/"
           >
             <Logo size={30} />
-            <p className="font-bold text-inherit">MEEKOT</p>
+            <p className="font-bold text-inherit">MEEKOT DRSA</p>
           </Link>
         </NavbarBrand>
         {showNavigation && (
