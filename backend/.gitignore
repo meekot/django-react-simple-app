@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.pyc
+*.so
+
+# Env
+.env
+venv/
+ENV/
+env/
+*.env
+
+# Django
+*.log
+*.pot
+*.py,cover
+db.sqlite3
+media/
+staticfiles/
+static/
+local_settings.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Testing
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# Migrations cache
+*/migrations/__pycache__/
